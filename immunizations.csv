@@ -1,0 +1,635 @@
+School,City,Adequately immunized %,Exempt %,District/LEA,Address,Zip,Map,school_type
+river rock school,lehi,89.7,10.3,Alpine District,520 North 1700 West,84043,"geo:40.3937097,-111.8764976",Private
+springside school,saratoga springs,82.9,13.7,Alpine District,694 South Highpoint Drive,84045,"geo:40.3494704,-111.9152738",Private
+american preparatory academy accelerated school,west valley city,94.2,3.5,,,,,Public
+american preparatory academy,draper,92.0,7.0,American Preparatory Academy,12892 S PONY EXPRESS RD,84020,"geo:40.517489,-111.891825",Public Charter
+american preparatory academy salem,salem,74.6,25.4,,,,,Public
+ascent academies of utah lehi,lehi,87.0,13.0,Ascent Academies of Utah,2199 W 900 N,84043,"geo:40.3986691,-111.8870765",Public Charter
+athlos academy of utah,herriman,91.8,4.9,,,,,Public
+birch creek school,smithfield,93.0,5.3,Cache District,675 W 220 N,84335,"geo:41.842084,-111.852014",Private
+canyon creek school,farmington,89.3,9.3,Davis District,755 S 1100 W,84025,"geo:40.9684995,-111.9122963",Private
+eagle bay school,farmington,83.3,14.6,Davis District,1933 W Clark Ln,84025,"geo:40.981619,-111.92904",Private
+endeavour school,kaysville,92.3,7.7,Davis District,1870 S 25 W,84037,"geo:41.0032309,-111.938957",Private
+kay's creek school,kaysville,94.8,2.6,Davis District,2260 W Island Dr.,84037,"geo:41.0338547,-111.9886677",Private
+centennial school,roosevelt,82.4,5.9,Duchesne District,940 S 500 E,84066,"geo:40.2860245,-109.9838506",Private
+elizabeth academy-primary school,salt lake city,62.5,0.0,,,,,Public
+entheos academy,kearns,95.9,1.4,,,,,Public
+entheos academy magna,magna,80.3,15.2,,,,,Public
+franklin discovery academy,vineyard,77.4,22.6,Franklin Discovery Academy,320 E. Gammon Road,84059,"geo:40.2969457,-111.7499018",Public Charter
+freedom preparatory academy,provo,96.4,3.6,,,,,Public
+freedom preparatory academy vineyard,vineyard,84.0,14.0,,,,,Public
+helen m knight school,moab,84.2,3.9,,,,,Public
+gearld wright school,salt lake city,82.5,7.0,,,,,Public
+greenwood charter school,ogden,91.1,8.9,Greenwood Charter School,840 North Highway 89,84404,"geo:41.249691,-111.969904",Public Charter
+hawthorn academy south jordan,south jordan,93.1,5.9,Hawthorn Academy,1437 W 11400 S,84095,"geo:40.5439047,-111.9349063",Public Charter
+hawthorn academy,west jordan,96.7,3.3,,,,,Public
+delta south school,delta,89.8,7.4,Millard District,450 S CENTER,84624,"geo:39.344383,-112.575747",Private
+maple ridge school,mapleton,84.9,13.8,Nebo District,2340 West Harvest Parkway,84664,"geo:40.1227027,-111.6013484",Private
+meadow brook school,springville,84.9,11.3,Nebo District,748 S. 950 W.,84663,"geo:40.1566357,-111.6324984",Private
+east ridge elementary school,ogden,91.0,7.9,Ogden City District,1330 9th Street,84404,"geo:41.248994,-111.945146",Private
+new bridge school,ogden,90.0,4.0,Ogden City District,2150 Jefferson Ave.,84401,"geo:41.2277622,-111.9669151",Private
+polk school,ogden,76.4,12.5,Ogden City District,2615 POLK AVE,84401,"geo:41.217211,-111.94317",Private
+liberty elementary,ogden,89.2,1.4,,,,,Public
+rowland hall elemenatary,salt lake city,93.2,3.4,,,,,Public
+scholar academy,tooele,94.7,5.3,Scholar Academy,928 N 100 E,84074,"geo:40.54846,-112.2953",Public Charter
+spectrum academy,north salt lake,92.7,7.3,,,,,Public
+spectrum academy pleasant grove,pleasant grove,96.6,3.4,,,,,Public
+summit academy bluffdale,bluffdale,82.5,17.5,,,,,Public
+summit academy draper campus,draper,81.4,18.6,,,,,Public
+summit academy independence,bluffdale,70.6,3.5,,,,,Public
+syracuse arts academy antelope k-6,syracuse,93.7,3.2,,,,,Public
+syracuse arts academy north,syracuse,94.7,5.3,,,,,Public
+terra academy,vernal,81.4,18.6,,,,,Public
+sterling school,tooele,96.9,0.0,Tooele District,251 N. 1st St.,84074,"geo:40.5357494,-112.2939659",Private
+wallace stegner academy,salt lake city,96.3,1.2,Wallace Stegner Academy,980 S Bending River Rd,84104,"geo:40.7466253,-111.9461805",Public Charter
+wasatch waldorf charter school,holladay,67.1,31.5,Wasatch Waldorf Charter School,1458 East Murray-Holladay Road,84117,"geo:40.666446,-111.852083",Public Charter
+burch creek school,ogden,91.7,8.3,Weber District,4300 Madison Ave.,84405,"geo:41.183104,-111.961569",Private
+eastwood school,salt lake city,100.0,0.0,Granite District,3305 WASATCH BLVD,84109,"geo:40.699538,-111.793567",Private
+robert frost school,west valley city,94.4,0.0,Granite District,3444 W 4400 S,84119,"geo:40.675648,-111.974027",Private
+granger school,west valley city,83.1,2.2,Granite District,3702 S 1950 W,84119,"geo:40.689864,-111.953848",Private
+hillside school,west valley city,93.2,0.0,Granite District,4283 S 6000 W,84128,"geo:40.678442,-112.033275",Private
+hillsdale school,west valley city,98.6,0.0,Granite District,3275 W 3100 S,84119,"geo:40.703148,-111.969528",Private
+castle dale school,castle dale,78.9,21.1,Emery District,P.O. BOX 539 195 EAST 600 NORTH,84513,"geo:39.221198,-111.016332",Private
+cleveland school,cleveland,83.3,16.7,Emery District,P.O. BOX 220 30 SOUTH 100 WEST,84518,"geo:39.348233,-110.854461",Private
+ferron school,ferron,90.9,4.5,Emery District,P O BOX 910 115 WEST MILL RD,84523,"geo:39.091325,-111.1351",Private
+monroe school,west valley city,92.2,1.6,Granite District,4450 W 3100 S,84120,"geo:40.704711,-111.997152",Private
+morningside school,salt lake city,98.6,1.4,Granite District,4170 S 3000 E,84124,"geo:40.680898,-111.807287",Private
+huntington school,huntington,92.9,7.1,Emery District,P O BOX 190 90 East 100 North,84528,"geo:39.32792,-110.96299",Private
+oakwood school,salt lake city,96.4,0.0,Granite District,5815 S HIGHLAND DR,84121,"geo:40.64522,-111.834111",Private
+panguitch school,panguitch,91.3,4.3,Garfield District,PO BOX 386 110 S 100 W,84759,"geo:37.820721,-112.438176",Private
+cottonwood school,orangeville,94.4,0.0,Emery District,P O BOX 679 55 EAST 200 SOUTH,84537,"geo:39.225279,-111.052018",Private
+douglas t orchard school,west valley city,98.0,0.0,,,,,Public
+pioneer school,west valley city,80.0,3.6,Granite District,3860 S 3380 W,84119,"geo:40.687825,-111.972591",Private
+west kearns school,kearns,84.6,1.5,Granite District,4900 S 4620 W,84118,"geo:40.6629,-112.002154",Private
+philo t farnsworth school,west valley city,85.2,1.9,,,,,Public
+whittier school,west valley city,89.9,1.4,Granite District,3585 S 6000 W,84128,"geo:40.695045,-112.033533",Private
+plymouth school,taylorsville,83.8,2.5,,,,,Public
+pleasant green school,magna,91.0,3.0,Granite District,8201 W 2700 S,84044,"geo:40.709185,-112.086501",Private
+william penn school,salt lake city,91.2,1.2,Granite District,1670 SIGGARD DR,84106,"geo:40.690825,-111.844453",Private
+woodrow wilson school,salt lake city,100.0,0.0,Granite District,2567 S MAIN STREET,84115,"geo:40.714379,-111.889691",Private
+redwood school,west valley city,72.7,0.0,,,,,Public
+rolling meadows school,west valley city,98.2,1.8,Granite District,2950 WHITEHALL DR,84119,"geo:40.685273,-111.961791",Private
+olene walker elementary,salt lake city,81.1,0.0,Granite District,3225 S 800 E,84106,"geo:40.701197,-111.867614",Private
+academy park school,west valley city,85.2,1.9,Granite District,4580 WESTPOINT DR,84120,"geo:40.67008,-111.999965",Private
+rosecrest school,salt lake city,78.4,5.9,Granite District,2420 FISHER LN,84109,"geo:40.706282,-111.8209",Private
+harry s truman school,west valley city,92.9,2.4,,,,,Public
+arcadia school,taylorsville,88.1,1.7,Granite District,3461 W 4850 S,84118,"geo:40.6631,-111.973372",Private
+thomas w bacchus school,kearns,95.0,0.0,,,,,Public
+jim bridger school,west jordan,100.0,0.0,Granite District,5368 W CYCLAMEN WAY,84084,"geo:40.635447,-112.02033",Private
+bennion school,salt lake city,85.5,10.1,Granite District,5775 S SIERRA GRANDE DR,84118,"geo:40.646747,-111.961378",Private
+beehive school,kearns,93.2,1.4,Granite District,5655 S 5220 W,84118,"geo:40.648583,-112.014011",Private
+copper hills school,magna,92.5,1.2,Granite District,7635 W 3715 S,84044,"geo:40.690897,-112.073467",Private
+cottonwood school,salt lake city,82.7,17.3,Granite District,5205 HOLLADAY BLVD,84117,"geo:40.656536,-111.815692",Private
+hunter school,west valley city,88.0,1.2,Granite District,4351 S 5400 W,84120,"geo:40.676076,-112.018411",Private
+calvin s smith school,taylorsville,95.6,4.4,,,,,Public
+alta view school,sandy,87.7,9.9,Canyons District,917 E LARKSPUR DR,84094,"geo:40.56368,-111.865942",Private
+upland terrace school,salt lake city,92.5,1.5,Granite District,3700 S 2860 E,84109,"geo:40.690232,-111.811867",Private
+south kearns school,kearns,86.2,7.5,Granite District,4430 W 5570 S,84118,"geo:40.650268,-111.996845",Private
+stansbury school,west valley city,91.0,0.0,Granite District,3050 S 2700 W,84119,"geo:40.705786,-111.959028",Private
+bella vista school,cottonwood heights,85.0,7.5,,,,,Public
+intermountain christian school,salt lake city,52.9,47.1,,,,,Public
+vista school,taylorsville,95.7,1.4,Granite District,4925 S 2200 W,84118,"geo:40.662896,-111.947691",Private
+brookwood school,sandy,95.7,4.3,Canyons District,8640 S SNOWBIRD DR,84093,"geo:40.594172,-111.820617",Private
+st francis xavier catholic school,kearns,100.0,0.0,,,,,Public
+valley crest school,west valley city,96.2,1.9,,,,,Public
+east sandy school,sandy,88.7,11.3,Canyons District,8295 S 870 E,84094,"geo:40.600422,-111.866179",Private
+saint vincent de paul elementary,salt lake city,100.0,0.0,,,,,Public
+woodstock school,salt lake city,89.9,6.7,Granite District,6015 S 1300 E,84121,"geo:40.641219,-111.853981",Private
+elk meadows school,south jordan,91.7,6.7,Jordan District,3448 W 9800 S,84095,"geo:40.574145,-111.97313",Private
+cedar east school,cedar city,89.2,8.1,Iron District,255 E COLLEGE AVE,84720,"geo:37.676642,-113.057007",Private
+cedar north school,cedar city,81.5,16.3,Iron District,550 W 200 N,84720,"geo:37.681962,-113.070749",Private
+granite school,sandy,76.1,15.2,Canyons District,9760 S 3100 E,84092,"geo:40.573839,-111.807569",Private
+cedar south school,cedar city,90.0,10.0,Iron District,499 W 400 S,84720,"geo:37.669893,-113.07042",Private
+escalante valley school,beryl,68.4,31.6,Iron District,202 N BERYL HWY,84714,"geo:37.712105,-113.655976",Private
+heartland school,west jordan,92.2,7.8,Jordan District,1451 W 7000 S,84084,"geo:40.623947,-111.933026",Private
+jordan ridge school,south jordan,88.0,8.0,Jordan District,2636 W 9800 S,84095,"geo:40.573857,-111.956624",Private
+jordan hills school,west jordan,92.3,1.5,Jordan District,8892 S 4800 W,84088,"geo:40.589968,-112.006314",Private
+oak hollow school,draper,87.0,7.2,Canyons District,14400 S 884 E,84020,"geo:40.49304,-111.867457",Private
+lone peak school,sandy,86.9,13.1,Canyons District,11515 S HIGH MESA DR,84092,"geo:40.54178,-111.826508",Private
+majestic school,west jordan,90.9,9.1,Jordan District,7430 S 1700 W,84084,"geo:40.616034,-111.941113",Private
+midvalley school,midvale,86.7,7.1,Canyons District,217 E 7800 S,84047,"geo:40.611046,-111.883801",Private
+south jordan school,south jordan,84.0,11.3,Jordan District,11205 S BLACK CHERRY WAY,84095,"geo:40.547465,-111.93213",Private
+southland school,riverton,87.0,11.6,Jordan District,12675 S 2700 W,84065,"geo:40.520884,-111.9567",Private
+monte vista school,south jordan,90.7,7.0,Jordan District,11121 S 2700 W,84095,"geo:40.548604,-111.95671",Private
+terra linda school,west jordan,84.3,4.3,Jordan District,8400 S 3400 W,84088,"geo:40.59791,-111.974885",Private
+rose creek school,riverton,84.1,0.0,Jordan District,12812 S 3600 W,84065,"geo:40.517654,-111.978818",Private
+oquirrh school,west jordan,79.5,9.0,Jordan District,7165 S PADDINGTON ROAD,84084,"geo:40.621097,-111.969624",Private
+sprucewood school,sandy,87.5,10.4,Canyons District,12025 S 1000 E,84094,"geo:40.532675,-111.861789",Private
+oakdale school,cottonwood heights,77.6,13.8,,,,,Public
+peruvian park school,sandy,91.8,5.9,Canyons District,1545 E 8425 S,84093,"geo:40.599093,-111.847561",Private
+enoch school,enoch,93.3,6.7,Iron District,4701 N WAGON WHEEL,84721,"geo:37.763433,-113.030676",Private
+fiddlers canyon school,cedar city,82.9,14.3,Iron District,475 E 1935 N,84721,"geo:37.71307,-113.05381",Private
+parowan school,parowan,78.7,19.1,Iron District,128 W 100 N PO BOX 458,84761,"geo:37.844788,-112.830818",Private
+fillmore school,fillmore,88.8,11.2,Millard District,555 W 400 S,84631,"geo:38.959947,-112.3387",Private
+bluffdale school,bluffdale,82.0,12.0,Jordan District,14323 S 2700 W,84065,"geo:40.491204,-111.956429",Private
+columbia school,west jordan,80.5,2.6,Jordan District,3505 W 7800 S,84088,"geo:40.608575,-111.975383",Private
+copperview school,midvale,77.3,0.0,Canyons District,8449 S 150 W,84047,"geo:40.597753,-111.8949",Private
+morgan school,morgan,85.7,10.2,Morgan District,344 E YOUNG ST,84050,"geo:41.037133,-111.67131",Private
+brockbank school,spanish fork,94.7,5.3,Nebo District,340 W 500 N,84660,"geo:40.116761,-111.660692",Private
+brookside school,springville,64.4,23.7,Nebo District,750 E 400 S,84663,"geo:40.16091,-111.597161",Private
+canyon school,spanish fork,91.4,5.7,Nebo District,1492 E 1240 S,84660,"geo:40.092565,-111.62848",Private
+crescent school,sandy,80.6,6.9,Canyons District,11100 S 230 E,84070,"geo:40.549559,-111.885587",Private
+goshen school,goshen,82.4,11.8,Nebo District,60 N CENTER,84633,"geo:39.954012,-111.899291",Private
+draper school,draper,86.8,11.0,Canyons District,1080 E 12660 S,84020,"geo:40.520741,-111.86102",Private
+westside school,springville,90.7,9.3,Nebo District,740 W CENTER,84663,"geo:40.167447,-111.623998",Private
+wilson school,payson,87.5,12.5,Nebo District,590 W 500 S,84651,"geo:40.037031,-111.741085",Private
+east midvale school,midvale,75.0,2.5,Canyons District,6990 S 300 E,84047,"geo:40.624986,-111.882987",Private
+riverton school,riverton,92.2,7.8,Jordan District,13150 S 1830 W,84065,"geo:40.512175,-111.944324",Private
+riverside school,west jordan,79.7,2.7,Jordan District,8737 S 1220 W,84088,"geo:40.592682,-111.926025",Private
+quail hollow school,sandy,91.1,8.9,Canyons District,2625 E NEWCASTLE DR,84093,"geo:40.587126,-111.816478",Private
+park lane school,sandy,88.6,11.4,Canyons District,9955 S 2300 E,84092,"geo:40.570262,-111.823506",Private
+moroni school,moroni,98.0,0.0,North Sanpete District,PO BOX 279 98 N 200 W,84646,"geo:39.52737,-111.586688",Private
+north summit school,coalville,70.0,26.0,North Summit District,BOX 497 240 S BEACON HILL DR,84017,"geo:40.915114,-111.397472",Private
+montezuma creek school,montezuma creek,88.9,0.0,San Juan District,BOX 630 STATE HWY #262,84534,"geo:37.26067,-109.30469",Private
+ephraim school,ephraim,78.8,15.0,South Sanpete District,570 S 300 EAST,84627,"geo:39.357049,-111.586197",Private
+monticello school,monticello,66.7,24.2,San Juan District,P O BOX 189 197 N 200 W,84535,"geo:37.875393,-109.346993",Private
+mona school,mona,66.7,29.2,Juab District,260 E 200 S,84645,"geo:39.813135,-111.850431",Private
+northlake school,tooele,84.6,6.2,Tooele District,268 N COLEMAN,84074,"geo:40.53548,-112.312561",Private
+anna smith school,wendover,100.0,0.0,Tooele District,P O BOX 879 731 N ARIA,84083,"geo:40.741635,-114.043149",Private
+gunnison valley school,gunnison,83.3,0.0,South Sanpete District,PO BOX 369 550 S 100 E,84634,"geo:39.139133,-111.820379",Private
+manti school,manti,75.0,19.6,South Sanpete District,150 W 100 S,84642,"geo:39.264474,-111.63978",Private
+red cliff school,nephi,81.8,12.1,Juab District,1199 S MAIN,84648,"geo:39.692922,-111.83583",Private
+west school,tooele,94.6,2.7,Tooele District,451 W 300 S,84074,"geo:40.524765,-112.310938",Private
+south summit school,kamas,82.9,13.4,South Summit District,535 E 300 S,84036,"geo:40.638896,-111.26908",Private
+kanab school,kanab,78.5,17.7,Kane District,41 W 100 N,84741,"geo:37.050165,-112.52957",Private
+valley school,orderville,76.5,23.5,Kane District,P O BOX 129 110 E STATE,84758,"geo:37.275285,-112.636196",Private
+maeser school,vernal,90.5,9.5,Uintah District,2670 W 1000 N,84078,"geo:40.470942,-109.579752",Private
+naples school,naples,88.6,7.1,,,,,Public
+ashley school,vernal,82.4,10.8,Uintah District,350 N 1150 W,84078,"geo:40.460715,-109.549978",Private
+davis school,vernal,83.1,13.0,Uintah District,4101 S 2500 E,84078,"geo:40.396841,-109.478774",Private
+discovery school,vernal,82.4,14.8,Uintah District,650 W 1200 S,84078,"geo:40.438059,-109.541226",Private
+jr smith school,heber city,88.6,5.7,,,,,Public
+larsen school,spanish fork,90.8,9.2,Nebo District,1175 E FLONETTE DRIVE,84660,"geo:40.106605,-111.633941",Private
+mapleton school,mapleton,80.5,15.6,Nebo District,120 W MAPLE,84664,"geo:40.130839,-111.580528",Private
+enterprise school,enterprise,60.8,37.3,Washington District,P O BOX 459 216 S 100 E,84725,"geo:37.56996,-113.719828",Private
+mt loafer school,salem,83.9,16.1,,,,,Public
+park school,spanish fork,89.7,8.0,Nebo District,90 N 600 E,84660,"geo:40.110732,-111.643298",Private
+park view school,payson,87.9,8.6,Nebo District,360 S 100 E,84651,"geo:40.038508,-111.731133",Private
+rees school,spanish fork,90.3,8.1,Nebo District,574 N REES AVE,84660,"geo:40.117092,-111.629024",Private
+hurricane school,hurricane,76.6,20.8,Washington District,948 W 325 N,84737,"geo:37.175554,-113.289396",Private
+red mountain school,ivins,75.7,21.4,Washington District,263 E 200 S,84738,"geo:37.165537,-113.673467",Private
+santa clara school,santa clara,80.4,19.6,Washington District,2950 W CRESTVIEW DRIVE,84765,"geo:37.136938,-113.652227",Private
+sage creek school,springville,94.2,5.8,Nebo District,1050 S 700 E,84663,"geo:40.150904,-111.598856",Private
+salem school,salem,84.1,12.5,Nebo District,140 W 100 S,84653,"geo:40.053559,-111.676717",Private
+santaquin school,santaquin,86.3,12.6,Nebo District,25 S 400 W,84655,"geo:39.974236,-111.793948",Private
+taylor school,payson,85.5,10.9,Nebo District,92 S 500 W,84651,"geo:40.043106,-111.740341",Private
+bates school,ogden,92.0,6.7,Weber District,850 E 3100 N,84414,"geo:41.318005,-111.953604",Private
+washington school,washington,81.8,18.2,Washington District,300 N 300 E,84780,"geo:37.13586,-113.504127",Private
+spring city school,spring city,94.1,5.9,North Sanpete District,100 N 453 E P O BOX 159,84662,"geo:39.48007,-111.487917",Private
+h guy child school,ogden,82.1,12.8,Weber District,655 E 5500 S,84405,"geo:41.162317,-111.964617",Private
+green acres school,ogden,91.3,8.7,Weber District,640 E 1900 N,84414,"geo:41.293242,-111.960322",Private
+hooper school,hooper,90.5,4.8,Weber District,5500 S 5900 W,84315,"geo:41.164569,-112.121163",Private
+farr west school,ogden,87.2,12.8,Weber District,2190 W 2700 N,84404,"geo:41.307669,-112.032611",Private
+kanesville school,west haven,96.0,3.0,Weber District,3112 S 3500 W,84401,"geo:41.208154,-112.061886",Private
+lakeview school,roy,91.4,6.9,Weber District,2025 W 5000 S,84067,"geo:41.173164,-112.029529",Private
+majestic school,ogden,91.6,8.4,Weber District,425 W 2550 N,84414,"geo:41.303144,-111.987404",Private
+jeremy ranch school,park city,91.4,6.9,Park City District,3050 RASMUSSEN RD,84098,"geo:40.753388,-111.568192",Private
+lomond view school,ogden,83.8,13.5,Weber District,3644 N 900 W,84414,"geo:41.324028,-111.997569",Private
+pioneer school,ogden,93.2,6.8,Weber District,250 N 1600 W,84404,"geo:41.264233,-112.017498",Private
+midland school,roy,90.2,6.6,Weber District,3100 W 4800 S,84067,"geo:41.177198,-112.053659",Private
+municipal school,roy,95.2,4.8,Weber District,5775 S 2200 W,84067,"geo:41.158132,-112.034009",Private
+north ogden school,ogden,83.6,16.4,Weber District,530 E 2650 N,84414,"geo:41.308115,-111.965825",Private
+riverdale school,ogden,93.4,6.6,Weber District,1160 W 4400 S,84405,"geo:41.183473,-112.007237",Private
+roosevelt school,ogden,91.3,2.2,Weber District,190 W 5100 S,84405,"geo:41.17146,-111.98054",Private
+roy school,roy,88.2,11.8,Weber District,2888 W 5600 S,84067,"geo:41.162601,-112.049248",Private
+uintah school,ogden,93.1,5.6,Weber District,6115 S 2250 E,84403,"geo:41.153194,-111.925203",Private
+bonneville school,salt lake city,98.2,1.8,Salt Lake District,1145 S 1900 E,84108,"geo:40.744169,-111.835828",Private
+north park school,roy,86.8,7.4,Weber District,4046 S 2175 W,84067,"geo:41.186591,-112.031213",Private
+dilworth school,salt lake city,100.0,0.0,Salt Lake District,1953 S 2100 E,84108,"geo:40.728237,-111.829868",Private
+edison school,salt lake city,78.2,3.6,Salt Lake District,430 E CHEYENNE,84104,"geo:40.75924,-111.934828",Private
+emerson school,salt lake city,94.2,5.8,Salt Lake District,1017 E HARRISON AVENUE,84105,"geo:40.74051,-111.861728",Private
+ensign school,salt lake city,89.4,10.6,Salt Lake District,775 12TH AVE,84103,"geo:40.783012,-111.865888",Private
+ashman school,richfield,86.9,13.1,Sevier District,70 N 200 W,84701,"geo:38.768982,-112.087476",Private
+indian hills school,salt lake city,95.6,4.4,Salt Lake District,2496 E SAINT MARYS DR,84108,"geo:40.739918,-111.817665",Private
+monroe school,monroe,83.1,16.9,Sevier District,40 W CENTER ST,84754,"geo:38.632303,-112.122771",Private
+liberty school,salt lake city,98.4,0.0,Salt Lake District,1090 S ROBERTA ST,84111,"geo:40.745232,-111.884383",Private
+salina school,salina,80.0,20.0,Sevier District,210 W 300 N,84654,"geo:38.962184,-111.86366",Private
+meadowlark school (dup record 95999 deleted),salt lake city,69.8,1.9,,,,,Public
+newman school,salt lake city,100.0,0.0,Salt Lake District,1269 N COLORADO ST,84116,"geo:40.796862,-111.932299",Private
+nibley park school,salt lake city,93.4,4.9,Salt Lake District,2785 S 800 E,84106,"geo:40.709851,-111.866747",Private
+parkview school,salt lake city,76.4,0.0,Salt Lake District,970 S EMERY ST,84104,"geo:40.748402,-111.925564",Private
+j e cosgriff memorial catholic school,salt lake city,100.0,0.0,,,,,Public
+grantsville school,grantsville,91.2,5.0,Tooele District,50 S PARK ST,84029,"geo:40.599364,-112.468246",Private
+heber valley school,heber city,91.8,8.2,Wasatch District,730 S 600 W,84032,"geo:40.498684,-111.424478",Private
+midway school,midway,86.9,13.1,Wasatch District,225 S 100 E,84049,"geo:40.508401,-111.469508",Private
+laverkin school,la verkin,60.7,21.4,,,,,Public
+franklin school,provo,91.1,0.0,Provo District,350 S 600 W,84601,"geo:40.229059,-111.669882",Private
+amelia earhart school,provo,89.1,1.8,Provo District,2585 W 200 S,84601,"geo:40.230515,-111.704477",Private
+heritage school,saint george,89.0,11.0,Washington District,747 E RIVERSIDE DR,84790,"geo:39.659941,-113.660143",Private
+edgemont school,provo,76.9,17.3,Provo District,566 E 3650 N,84604,"geo:40.281805,-111.649379",Private
+provost school,provo,91.1,5.4,Provo District,629 S 1000 E,84606,"geo:40.225442,-111.641228",Private
+adams school,logan,96.2,3.8,Logan City District,415 E 500 N,84321,"geo:41.741406,-111.823644",Private
+ellis school,logan,82.8,10.9,Logan City District,348 W 300 N,84321,"geo:41.736945,-111.84447",Private
+wilson school,logan,86.8,9.4,Logan City District,89 S 500 E,84321,"geo:41.73015,-111.822991",Private
+woodruff school,logan,98.9,1.1,Logan City District,950 W 600 S,84321,"geo:41.719795,-111.858762",Private
+timpanogos school,provo,82.4,3.3,Provo District,449 N 500 W,84601,"geo:40.239787,-111.668663",Private
+wasatch school,provo,85.7,7.9,Provo District,1080 N 900 E,84604,"geo:40.247852,-111.641746",Private
+loa school,loa,94.7,0.0,Wayne District,P O BOX 130 50 S 100 E,84747,"geo:38.401322,-111.641036",Private
+grant school,murray,90.0,10.0,Murray District,662 W 6140 S,84123,"geo:40.637595,-111.908942",Private
+valley school,eden,81.0,19.0,Weber District,5821 E 1900 N,84310,"geo:41.29267,-111.807551",Private
+horizon school,murray,93.3,4.4,Murray District,5180 S 700 W,84123,"geo:40.658925,-111.910642",Private
+liberty school,murray,81.8,9.1,Murray District,140 W 6100 S,84107,"geo:40.638959,-111.895638",Private
+valley view school,roy,92.1,2.6,Weber District,2465 W 4500 S,84067,"geo:41.180818,-112.038466",Private
+washington terrace school,ogden,86.9,3.3,Weber District,20 E 4600 S,84405,"geo:41.179291,-111.976509",Private
+west weber school,ogden,94.3,5.7,Weber District,4178 West 900 South,84404,"geo:41.2502,-112.008059",Private
+hobble creek school,mapleton,79.2,20.8,Nebo District,1145 E 1200 N,84664,"geo:40.142078,-111.565576",Private
+timpanogos academy,lindon,86.9,13.1,Timpanogos Academy,70 S TITAN TRAIL,84042,"geo:40.33677,-111.712967",Public Charter
+backman school,salt lake city,97.4,2.6,Salt Lake District,601 N 1500 W,84116,"geo:40.78203,-111.934369",Private
+beacon heights school,salt lake city,97.7,0.0,Salt Lake District,1850 S 2500 E,84108,"geo:40.730217,-111.820163",Private
+franklin school,salt lake city,72.3,0.0,Salt Lake District,1115 W 300 S,84104,"geo:40.762225,-111.923325",Private
+mountain view school,salt lake city,92.9,0.0,Salt Lake District,1380 S NAVAJO,84104,"geo:40.739201,-111.930235",Private
+park city day school,park city,93.8,6.2,Park City Day School,3120 W PINEBROOK ROAD,84098,"geo:40.748478,-111.570937",Private
+madeleine choir school,salt lake city,100.0,0.0,Utah Catholic Schools,205 FIRST AVENUE,84103,"geo:40.771141,-111.882744",Private
+highland park school,salt lake city,95.2,4.8,Salt Lake District,1738 E 2700 S,84106,"geo:40.712571,-111.840853",Private
+rose park school,salt lake city,81.1,1.9,Salt Lake District,1105 W 1000 N,84116,"geo:40.790517,-111.922755",Private
+uintah school,salt lake city,93.0,7.0,Salt Lake District,1571 E 1300 S,84105,"geo:40.742151,-111.84594",Private
+wasatch school,salt lake city,93.7,6.3,Salt Lake District,30 R Street,84103,"geo:40.779359,-111.895934",Private
+washington school,salt lake city,95.3,2.3,Salt Lake District,420 N 200 W,84103,"geo:40.779359,-111.895934",Private
+nibley school,nibley,93.7,4.8,Cache District,2545 S 660 W,84321,"geo:41.686504,-111.849867",Private
+herriman school,herriman,87.8,12.2,Jordan District,13170 S 6000 W,84096,"geo:40.511715,-112.035014",Private
+the mcgillis school,salt lake city,100.0,0.0,,,,,Public
+north star school,salt lake city,91.5,0.0,Salt Lake District,1545 N MORTON DR,84116,"geo:40.803463,-111.947417",Private
+john hancock charter school pleasant grove,pleasant grove,86.4,13.6,,,,,Public
+thomas edison,north logan,85.1,14.9,Thomas Edison,180 E 2600 N,84341,"geo:41.779644,-111.829157",Public Charter
+pinnacle canyon academy,price,85.7,9.5,,,,,Public
+saint john the baptist elementary,draper,94.6,1.4,,,,,Public
+layton christian academy,layton,86.4,0.0,Layton Christian Academy,2352 E HIGHWAY 193,84040,"geo:41.105142,-111.922214",Private
+west valley school,west valley city,97.5,2.5,Granite District,6049 W BRUD DR,84128,"geo:40.703483,-112.035515",Private
+saint joseph catholic elementary school,ogden,100.0,0.0,,,,,Public
+navigator pointe academy,west jordan,92.1,7.9,,,,,Public
+wasatch peak academy,north salt lake,91.5,8.5,Wasatch Peak Academy,414 N CUTLER DRIVE,84054,"geo:40.847089,-111.931324",Public Charter
+north star academy,bluffdale,86.0,14.0,,,,,Public
+arrowhead school,santa clara,72.9,22.0,Washington District,545 ARROWHEAD TRAIL,84765,"geo:37.118228,-113.632848",Private
+odyssey charter school,american fork,82.8,17.2,Odyssey Charter School,738 E QUALITY DR,84003,"geo:40.361601,-111.779667",Public Charter
+middle canyon school,tooele,92.1,7.9,Tooele District,751 E 1000 N,84074,"geo:40.55201,-112.278242",Private
+hillcrest school,logan,92.0,6.7,Logan City District,960 N 1400 E,84321,"geo:41.74858,-111.798877",Private
+mcmillan school,murray,93.3,6.7,Murray District,315 E 5900 S,84107,"geo:40.643051,-111.881989",Private
+longview school,murray,92.5,5.0,Murray District,6240 LONGVIEW DR,84107,"geo:40.636844,-111.8754",Private
+foothills school,riverton,87.5,0.0,Jordan District,13717 S SHAGGY PEAK,84096,"geo:40.501101,-112.011652",Private
+parkside school,murray,83.3,4.2,Murray District,495 E 5175 S,84107,"geo:40.658415,-111.87702",Private
+viewmont school,murray,87.1,11.3,Murray District,745 W 5720 S,84123,"geo:40.647031,-111.911614",Private
+nebo view school,nephi,72.1,14.8,Juab District,380 E 200 N,84648,"geo:39.720292,-111.827006",Private
+ranches academy,eagle mountain,84.9,15.1,Ranches Academy,7789 TAWNY OWL CIR,84005,"geo:40.359372,-111.985289",Public Charter
+copper canyon school,west jordan,83.3,8.3,Jordan District,8917 S COPPERWOOD DR,84081,"geo:40.590636,-112.021291",Private
+copper canyon school,tooele,94.4,2.8,Tooele District,1600 N BROADWAY,84074,"geo:40.559791,-112.28834",Private
+riverside school,washington,80.2,19.8,Washington District,2500 S HARVEST LANE,84780,"geo:37.096856,-113.519077",Private
+davinci academy,ogden,79.6,20.4,,,,,Public
+west haven school,west haven,91.2,8.8,Weber District,4385 S 3900 W,84401,"geo:41.184443,-112.076201",Private
+bridger school,logan,97.5,2.5,Logan City District,1261 N 400 W,84341,"geo:41.755161,-111.84523",Private
+north davis preparatory academy,layton,95.7,4.3,,,,,Public
+reagan academy,springville,96.2,3.8,Reagan Academy,1143 W CENTER,84663,"geo:40.166254,-111.63111",Public Charter
+american leadership academy,spanish fork,81.2,17.9,,,,,Public
+beehive science & technology academy k-6,sandy,92.4,7.6,,,,,Public
+riverview school,spanish fork,87.0,10.2,Nebo District,628 S WEST PARK DRIVE,84660,"geo:40.101197,-111.665113",Private
+butterfield canyon school,herriman,82.9,6.6,Jordan District,6860 W MARY LEIZAN LANE,84096,"geo:40.50032,-112.054354",Private
+snow springs school,lehi,94.1,5.9,Alpine District,850 S 1700 W,84043,"geo:40.377807,-111.87769",Private
+westfield school,alpine,80.0,18.0,Alpine District,380 S LONG DR,84004,"geo:40.448029,-111.7905",Private
+buffalo point school,syracuse,84.5,13.8,Davis District,1924 SOUTH DORAL DRIVE,84075,"geo:41.086664,-112.095078",Private
+walden school of liberal arts,provo,72.4,17.2,,,,,Public
+canyon crest school,provo,92.5,3.8,Provo District,4664 N CANYON RD,84604,"geo:40.295388,-111.652293",Private
+provo peaks school,provo,80.5,5.7,Provo District,665 E CENTER ST,84606,"geo:40.23515,-111.647597",Private
+parkside school,clinton,93.6,2.1,Davis District,2262 N 1500 W,84015,"geo:41.146487,-112.054591",Private
+coral canyon school,washington,77.5,19.7,Washington District,3435 CANYON CREST AVE,84780,"geo:37.162594,-113.452872",Private
+spanish oaks school,spanish fork,88.4,11.6,Nebo District,2701 E CANYON CREST DR,84660,"geo:40.085759,-111.609163",Private
+horizon school,washington,82.0,17.0,Washington District,1970 S ARABIAN WAY,84780,"geo:37.10322,-113.490758",Private
+old mill school,heber city,82.6,15.1,Wasatch District,1600 E 980 S,84032,"geo:40.495416,-111.390043",Private
+overlake school,tooele,86.7,10.0,Tooele District,2052 N 170 W,84074,"geo:40.566511,-112.306321",Private
+willow school,grantsville,93.8,6.2,Tooele District,439 S WILLOW ST,84029,"geo:40.587628,-112.448309",Private
+edith bowen laboratory school,logan,91.7,8.3,Edith Bowen Laboratory School,6700 OLD MAIN HILL,84322,"geo:41.745107,-111.808807",Public Charter
+freedom school,hooper,92.2,5.6,Weber District,4555 W 5500 S,84315,"geo:41.162058,-112.090862",Private
+spring creek school,provo,91.5,1.7,Provo District,1740 S NEVADA AVE,84606,"geo:40.209114,-111.626033",Private
+cs lewis academy,santaquin,97.1,2.9,,,,,Public
+spring lake school,payson,84.8,15.2,Nebo District,1750 S 500 W,84651,"geo:40.015418,-111.738933",Private
+dual immersion academy,salt lake city,98.1,1.9,Dual Immersion Academy,1155 S GLENDALE DRIVE,84104,"geo:40.744277,-111.932652",Public Charter
+canyon rim academy,salt lake city,89.9,8.9,Canyon Rim Academy,3005 S 2900 E,84109,"geo:40.706027,-111.810022",Public Charter
+deerfield school,cedar hills,83.6,16.4,Alpine District,4353 W HARVEY BLVD,84062,"geo:40.405652,-111.762726",Private
+legacy preparatory academy,north salt lake,91.2,8.8,,,,,Public
+foothill school,orem,88.9,7.4,Alpine District,921 N 1240 E,84097,"geo:40.314029,-111.667229",Private
+creekside school,kaysville,96.1,1.3,Davis District,275 W MUTTON HOLLOW RD,84037,"geo:41.050084,-111.942631",Private
+bluff ridge school,syracuse,89.6,5.2,Davis District,2680 S Bluff Ridge Dr,84075,"geo:41.075671,-112.040903",Private
+renaissance academy,lehi,84.9,14.0,,,,,Public
+lakeside school,west point,92.2,5.9,Davis District,2941 W 800 N,84015,"geo:41.124526,-112.082305",Private
+hayden peak school,west jordan,90.2,1.2,Jordan District,5120 W HAYDEN PEAK DR,84081,"geo:40.605147,-112.01382",Private
+lakeview academy,saratoga springs,83.3,16.7,,,,,Public
+fox hollow school,lehi,84.5,13.1,Alpine District,1450 W 3200 N,84043,"geo:40.428143,-111.873467",Private
+ridgeline school,highland,86.2,10.8,Alpine District,6250 W 11800 N,84003,"geo:40.446513,-111.808099",Private
+iron springs school,cedar city,87.2,12.8,Iron District,235 N 4050 W,84720,"geo:37.682289,-113.132471",Private
+three peaks school,cedar city,81.7,18.3,Iron District,1685 W MIDVALLEY ROAD,84721,"geo:37.765019,-113.078419",Private
+mount mahogany school,pleasant grove,91.0,6.4,Alpine District,618 N 1300 W,84062,"geo:40.370571,-111.75842",Private
+willow springs school,draper,88.3,7.8,Canyons District,13288 S LONE ROCK DRIVE,84020,"geo:40.509768,-111.876585",Private
+trailside school,park city,86.1,7.9,Park City District,5700 TRAILSIDE DR,84098,"geo:40.715198,-111.503122",Private
+pony express school,eagle mountain,90.0,7.9,Alpine District,3985 E SMITH RANCH RD,84005,"geo:40.358922,-111.96694",Private
+ellison park school,layton,90.5,6.3,Davis District,800 N COLDCREEK WAY,84041,"geo:41.06708,-111.998255",Private
+snow horse school,kaysville,93.3,6.7,Davis District,1095 W SMITH LANE,84037,"geo:41.022608,-111.959901",Private
+guadalupe school,salt lake city,97.8,0.0,Guadalupe School,1385 N 1200 W,84116,"geo:40.7991155,-111.926118",Public Charter
+settlement canyon school,tooele,95.0,0.0,Tooele District,935 WEST TIMPIE ROAD,84074,"geo:40.513954,-112.322266",Private
+heritage school,layton,90.3,9.7,Davis District,1354 W WEAVER LANE,84041,"geo:41.045397,-111.99158",Private
+open classroom,salt lake city,74.4,15.4,Open Classroom,134 D STREET,84103,"geo:40.772482,-111.87882",Public Charter
+escalante school,salt lake city,97.6,2.4,Salt Lake District,1810 W 900 N,84116,"geo:40.789569,-111.941993",Private
+midas creek school,riverton,93.3,6.7,Jordan District,11901 S PARK HAVEN LANE,84096,"geo:40.530043,-111.997157",Private
+bruin point school,sunnyside,58.8,23.5,Carbon District,PO BOX 399,84539,"geo:39.549538,-110.403627",Private
+freedom school,highland,86.5,13.5,Alpine District,10326 N 6800 W,84003,"geo:40.420005,-111.820173",Private
+mountain green school,mountain green,78.9,21.1,Morgan District,6064 N SILVER LEAF DR,84050,"geo:41.143572,-111.759025",Private
+falcon ridge school,west jordan,90.9,5.2,Jordan District,6111 W 7000 S,84081,"geo:40.623772,-112.036717",Private
+mountainside school,mendon,87.9,12.1,Cache District,235 E 125 N,84325,"geo:41.710981,-111.970393",Private
+saratoga shores school,saratoga springs,87.3,9.9,Alpine District,1415 S PARKSIDE DR,84045,"geo:40.335594,-111.920612",Private
+sand springs school,layton,93.9,4.9,Davis District,242 N 3200 W,84041,"geo:41.063511,-112.025078",Private
+sage hills school,saratoga springs,88.2,11.8,Alpine District,3033 SWAINSON AVE,84045,"geo:40.306648,-111.895001",Private
+foxboro school,north salt lake,86.3,5.9,Davis District,487 N FOXBORO DRIVE,84054,"geo:40.852768,-111.940166",Private
+american preparatory academy the school for new americans,west valley city,92.5,1.1,,,,,Public
+lakeview school,provo,90.7,7.5,Provo District,2899 W 1390 N,84601,"geo:40.251961,-111.709631",Private
+silver hills school,kearns,82.0,1.6,Granite District,5770 W 5100 S,84118,"geo:40.65944,-112.027986",Private
+lincoln academy,pleasant grove,75.7,24.3,,,,,Public
+canyon school,hyrum,89.8,7.4,Cache District,270 S 1300 E,84319,"geo:41.62936,-111.819993",Private
+rose springs school,stansbury park,90.0,10.0,Tooele District,5349 N INSBROOK PLACE,84074,"geo:40.626159,-112.293675",Private
+maria montessori academy,ogden,78.8,15.4,Maria Montessori Academy,2505 N 200 E,84414,"geo:41.30365,-111.97674",Public Charter
+cherry creek school,springville,85.2,13.1,Nebo District,484 S 200 E,84663,"geo:40.159786,-111.607192",Private
+bear river charter school,logan,97.0,3.0,Bear River Charter School,75 S 400 W,84321,"geo:41.730152,-111.845523",Public Charter
+east meadows school,spanish fork,86.6,9.0,Nebo District,1287 S 2130 E,84660,"geo:40.093977,-111.619185",Private
+foothills school,salem,90.2,9.8,Nebo District,412 S 810 E,84653,"geo:40.048208,-111.657232",Private
+weilenmann school of discovery,park city,94.6,5.4,Weilenmann School of Discovery,4199 W KILBY ROAD,84098,"geo:40.751592,-111.593779",Public Charter
+orchard hills school,santaquin,89.2,10.8,Nebo District,168 E 610 S,84655,"geo:39.985948,-111.782117",Private
+sierra bonita elementary,spanish fork,86.5,13.5,Nebo District,53 S 1800 E,84660,"geo:40.108777,-111.622879",Private
+noah webster academy,orem,91.9,5.4,Noah Webster Academy,205 E 400 S,84058,"geo:40.289893,-111.690456",Public Charter
+mountainville academy,alpine,77.9,21.1,,,,,Public
+traverse mountain school,lehi,86.7,12.2,Alpine District,2500 W CHAPEL RIDGE RD,84043,"geo:40.446351,-111.888568",Private
+channing hall,draper,66.2,12.7,Channing Hall,13515 S 150 E,84020,"geo:40.505924,-111.885119",Public Charter
+saint marguerite catholic school,tooele,100.0,0.0,,,,,Public
+providence hall,herriman,79.1,10.8,,,,,Public
+quest academy,west haven,90.4,9.6,,,,,Public
+eagle view school,fort duchesne,85.0,10.0,,,,,Public
+vista school,ivins,79.3,20.7,Vista School,585 E CENTER STREET,84738,"geo:37.168762,-113.666325",Public Charter
+north point school,lehi,85.8,11.7,Alpine District,2300 W 1901 N,84043,"geo:40.410436,-111.887884",Private
+silver crest school,herriman,90.4,5.3,Jordan District,12937 S ELEMENTARY DR,84096,"geo:40.516567,-112.021693",Private
+shadow valley school,ogden,87.5,5.0,Ogden City District,4911 S 1500 E,84403,"geo:41.174041,-111.942366",Private
+kauri sue hamilton,riverton,94.1,0.0,,,,,Public
+elk run elementary,magna,94.8,3.1,Granite District,3550 S HELEN DR,84044,"geo:40.69678,-112.096005",Private
+endeavor hall,west valley city,82.9,0.0,Endeavor Hall,2614 S DECKER LAKE LANE,84119,"geo:40.7132549,-111.944114",Public Charter
+fox hollow school,west jordan,90.1,7.7,Jordan District,6020 W 8200 S,84081,"geo:40.602192,-112.036807",Private
+good foundations academy,riverdale,82.5,14.3,Good Foundations Academy,5101 S 1050 W,84405,"geo:41.169097,-112.005765",Public Charter
+riverview school,saratoga springs,84.7,9.0,Alpine District,273 W ASPEN HILLS BLVD,84045,"geo:40.391566,-111.92988",Private
+thunder ridge school,saratoga springs,83.2,14.4,Alpine District,264 N. 750 W,84045,"geo:40.365891,-111.929182",Private
+american heritage school american fork,american fork,97.8,2.2,,,,,Public
+aspen school,orem,92.0,6.0,Alpine District,945 W 2000 N,84057,"geo:40.333162,-111.719552",Private
+barratt school,american fork,89.9,5.8,Alpine District,168 N 900 E,84003,"geo:40.380442,-111.772094",Private
+bonneville school,orem,85.7,8.6,Alpine District,1245 N 800 W,84057,"geo:40.320167,-111.715885",Private
+cascade school,orem,88.0,6.0,Alpine District,860 E 200 N,84097,"geo:40.758148,-111.8835328",Private
+cedar ridge school,cedar hills,91.4,6.2,Alpine District,4501 W CEDAR HILLS DR,84062,"geo:40.414756,-111.766286",Private
+central school,pleasant grove,90.3,8.1,Alpine District,95 N 400 E,84062,"geo:40.364901,-111.733926",Private
+alpine school,alpine,85.7,10.2,Alpine District,400 E 300 N,84004,"geo:40.456685,-111.770533",Private
+eaglecrest school,lehi,85.9,11.8,Alpine District,2760 N 300 W,84043,"geo:40.422548,-111.8536",Private
+forbes school,american fork,86.7,6.0,Alpine District,281 N 200 E,84003,"geo:40.382456,-111.793877",Private
+manila school,pleasant grove,91.5,8.5,Alpine District,1726 N 600 W,84062,"geo:40.382278,-111.748468",Private
+rocky mountain school,lindon,96.7,1.6,Alpine District,55 S 500 E,84042,"geo:40.3366,-111.702467",Private
+greenwood school,american fork,90.7,6.5,Alpine District,50 E 200 S,84003,"geo:40.371981,-111.796901",Private
+grovecrest school,pleasant grove,93.0,3.5,Alpine District,1037 N 300 E,84062,"geo:40.374673,-111.737708",Private
+orchard school,orem,64.4,30.5,Alpine District,1035 N 800 E,84097,"geo:40.316383,-111.677646",Private
+meadow school,lehi,87.5,12.5,Alpine District,176 S 500 W,84043,"geo:40.385503,-111.858168",Private
+sego lily school,lehi,91.1,5.1,Alpine District,550 E 900 N,84043,"geo:40.398257,-111.841747",Private
+northridge school,orem,88.0,12.0,Alpine District,1660 N 50 E,84057,"geo:40.327999,-111.694311",Private
+lindon school,lindon,92.1,4.8,Alpine District,30 N MAIN,84042,"geo:40.338753,-111.714473",Private
+highland school,highland,78.4,21.6,Alpine District,10865 N 6000 W,84003,"geo:40.42892,-111.803673",Private
+shelley school,american fork,91.3,6.5,Alpine District,602 N 200 W,84003,"geo:40.388687,-111.802674",Private
+orem school,orem,86.0,4.7,Alpine District,450 W 400 S,84058,"geo:40.290636,-111.706788",Private
+legacy school,american fork,91.8,8.2,Alpine District,28 E 1340 N,84003,"geo:40.402577,-111.797357",Private
+lehi school,lehi,90.0,6.2,Alpine District,765 N CENTER,84043,"geo:40.39707,-111.850855",Private
+vineyard school,vineyard,81.2,10.4,Alpine District,620 E HOLDAWAY RD,84058,"geo:40.289164,-111.73761",Private
+westmore school,orem,83.9,6.5,Alpine District,1150 S MAIN,84058,"geo:40.276684,-111.696851",Private
+windsor school,orem,96.8,1.6,Alpine District,1315 N MAIN,84057,"geo:40.321221,-111.696735",Private
+belknap school,beaver,98.2,1.8,Beaver District,500 N 650 E P O BOX 686,84713,"geo:38.278523,-112.64197",Private
+milford school,milford,96.6,3.4,Beaver District,450 S 700 W P O BOX 309,84751,"geo:38.393988,-113.01975",Private
+century school,bear river city,78.1,13.7,Box Elder District,5820 N 4800 W PO BOX 159,84301,"geo:41.6152,-112.129109",Private
+windridge school,kaysville,96.2,1.9,Davis District,1300 S 700 E,84037,"geo:41.013479,-111.923345",Private
+sunset school,sunset,90.0,6.0,Davis District,2014 N 250 W,84015,"geo:41.142614,-112.030082",Private
+syracuse school,syracuse,92.3,1.9,Davis District,1503 S 2000 W,84075,"geo:41.092298,-112.063821",Private
+reading school,centerville,78.0,7.3,Davis District,360 W 2025 N,84014,"geo:40.947959,-111.884256",Private
+silver mesa school,sandy,88.2,9.2,Canyons District,8920 S 1700 E,84093,"geo:40.589341,-111.844689",Private
+westridge school,provo,87.8,4.9,Provo District,1720 W 1460 N,84604,"geo:40.254199,-111.688396",Private
+howard r driggs school,salt lake city,89.5,5.3,,,,,Public
+john c fremont school,taylorsville,89.7,1.7,,,,,Public
+james e moss school,salt lake city,83.9,2.2,,,,,Public
+lake ridge school,magna,89.7,2.6,Granite District,7400 W 3400 S,84044,"geo:40.698989,-112.06849",Private
+jackling school,west valley city,87.1,1.6,Granite District,3760 S 4610 W,84120,"geo:40.690392,-112.001733",Private
+lincoln school,salt lake city,98.5,0.0,Granite District,450 E 3700 S,84115,"geo:40.690375,-111.879097",Private
+altara school,sandy,88.4,11.6,Canyons District,800 E 11000 S,84094,"geo:40.550782,-111.868793",Private
+magna school,magna,81.9,2.8,,,,,Public
+waterford school,sandy,88.2,3.9,Waterford School,1480 E 9400 S,84093,"geo:40.579654,-111.849057",Private
+sandy school,sandy,86.4,4.9,Canyons District,8725 S 280 E,84070,"geo:40.593027,-111.880506",Private
+rosamond school,riverton,91.8,4.9,Jordan District,12195 S 1975 W,84065,"geo:40.529773,-111.94284",Private
+sunrise school,sandy,90.5,6.8,Canyons District,1520 E 11245 S,84092,"geo:40.60849,-111.90104",Private
+art city school,springville,86.0,12.3,Nebo District,121 N 900 E,84663,"geo:40.168152,-111.59459",Private
+barnett school,payson,85.3,13.2,Nebo District,456 N 300 E,84651,"geo:40.049474,-111.728474",Private
+westvale school,west jordan,90.3,4.8,Jordan District,2300 W 8660 S,84088,"geo:40.594834,-111.949582",Private
+blanding school,blanding,86.2,8.6,San Juan District,302 S 100 W,84511,"geo:37.62116,-109.480493",Private
+westland school,west jordan,90.5,6.3,Jordan District,2925 W 7180 S,84084,"geo:40.620236,-111.963391",Private
+willow canyon school,sandy,91.7,6.2,Canyons District,9650 S 1700 E,84092,"geo:40.575983,-111.846688",Private
+fairview school,fairview,70.0,26.7,North Sanpete District,651 E 150 N,84629,"geo:39.631514,-111.425978",Private
+discovery school,brigham city,92.3,3.8,Box Elder District,820 N 500 W,84302,"geo:41.526596,-112.021951",Private
+fielding school,fielding,91.1,7.8,Box Elder District,98 W MAIN P O BOX 98,84311,"geo:41.815021,-112.11749",Private
+garland school,garland,78.7,20.2,Box Elder District,450 S. 100 W.,84312,"geo:41.743799,-112.162549",Private
+lincoln school,hyrum,86.4,7.6,Cache District,90 S CENTER,84319,"geo:41.632526,-111.855857",Private
+millville school,millville,85.5,10.1,Cache District,67 S MAIN P O BOX 230,84326,"geo:41.680628,-111.824218",Private
+north park school,north logan,83.3,11.1,Cache District,2800 N 800 E,84341,"geo:41.783311,-111.812299",Private
+white pine school,richmond,87.5,8.3,Cache District,184 W 100 N,84333,"geo:41.926339,-111.81308",Private
+lake view school,brigham city,91.7,6.2,Box Elder District,851 S 200 W,84302,"geo:41.49399,-112.018521",Private
+mckinley school,tremonton,88.8,10.1,Box Elder District,120 W 500 S,84337,"geo:41.705856,-112.168219",Private
+providence school,providence,89.0,8.5,Cache District,91 E CENTER,84332,"geo:41.708293,-111.815887",Private
+river heights school,logan,90.7,8.0,Cache District,780 E 600 S,84321,"geo:41.72061,-111.817247",Private
+north park school,tremonton,86.9,9.3,Box Elder District,50 E 700 N,84337,"geo:41.721249,-112.165894",Private
+summit school,smithfield,95.0,4.0,Cache District,80 W CENTER,84335,"geo:41.836543,-111.834194",Private
+lewiston school,lewiston,92.7,5.5,Cache District,181 S 200 E,84320,"geo:41.9721964,-111.8533951",Private
+sunrise school,smithfield,86.8,9.2,Cache District,225 S 455 E,84335,"geo:41.831537,-111.821009",Private
+wellsville school,wellsville,98.0,2.0,Cache District,525 N. 200 W.,84339,"geo:41.6489756,-111.9415014",Private
+willard school,willard,90.8,9.2,Box Elder District,40 W 50 S,84340,"geo:41.408495,-112.037128",Private
+castle heights school,price,83.9,16.1,Carbon District,750 N HOMESTEAD BLVD,84501,"geo:39.612555,-110.784446",Private
+castle valley center,price,76.5,0.0,,,,,Public
+creekview school,price,84.7,5.1,Carbon District,590 W 500 S,84501,"geo:39.592956,-110.819499",Private
+sally mauro school,helper,100.0,0.0,Carbon District,20 - 2ND AVE,84526,"geo:39.689714,-110.864696",Private
+wellington school,wellington,94.4,5.6,Carbon District,250 W 200 N P O BOX 407,84542,"geo:39.544672,-110.731907",Private
+hill field school,clearfield,91.1,7.6,Davis District,389 S 1000 E,84015,"geo:41.10812,-112.005195",Private
+clinton school,clinton,93.3,1.7,Davis District,1101 W 1800 N,84015,"geo:41.1392,-112.04745",Private
+cook school,syracuse,85.0,10.0,Davis District,1175 W 1350 S,84075,"geo:41.093628,-112.048739",Private
+holt school,clearfield,84.5,1.7,Davis District,448 N 1000 W,84015,"geo:41.120457,-112.044156",Private
+taylor school,centerville,90.7,7.0,Davis District,293 E PAGES LN,84014,"geo:40.907003,-111.875024",Private
+crestview school,layton,78.8,12.1,Davis District,185 W GOLDEN AVE,84041,"geo:41.069986,-111.970163",Private
+doxey school,sunset,89.6,2.1,Davis District,944 N 250 W,84015,"geo:41.127662,-112.029788",Private
+knowlton school,farmington,83.3,13.0,Davis District,801 SHEPARD LANE,84025,"geo:41.000118,-111.905067",Private
+kaysville school,kaysville,90.7,7.4,Davis District,50 N 100 E,84037,"geo:41.035647,-111.935675",Private
+east layton school,east layton,90.7,7.0,Davis District,2470 E CHERRY LANE,84041,"geo:41.080224,-111.918747",Private
+king school,layton,84.6,10.8,Davis District,601 E 1000 N,84041,"geo:41.075236,-111.953502",Private
+columbia school,kaysville,90.5,7.9,Davis District,378 S 50 W,84037,"geo:41.027427,-111.93871",Private
+farmington school,farmington,89.8,10.2,Davis District,50 W 200 S,84025,"geo:40.977522,-111.889283",Private
+morgan school,kaysville,86.3,12.3,Davis District,1065 THORNFIELD RD,84037,"geo:41.051653,-111.9196",Private
+muir school,bountiful,93.8,4.6,Davis District,2275 S DAVIS BLVD,84010,"geo:40.86472,-111.870573",Private
+holbrook school,bountiful,92.9,7.1,Davis District,1018 E 250 N,84010,"geo:40.891843,-111.860294",Private
+valley view school,bountiful,94.1,5.9,Davis District,1395 S 600 E,84010,"geo:40.874401,-111.868346",Private
+lincoln school,layton,82.4,2.9,Davis District,591 W Antelope Dr,84041,"geo:41.088465,-111.976808",Private
+layton school,layton,87.0,5.8,Davis District,369 W GENTILE,84041,"geo:41.059608,-111.972998",Private
+adelaide school,bountiful,90.4,7.7,Davis District,731 W 3600 S,84010,"geo:40.849951,-111.899569",Private
+antelope school,clearfield,84.5,8.3,Davis District,1810 S MAIN,84015,"geo:41.087234,-112.026978",Private
+boulton school,bountiful,84.7,13.6,Davis District,2611 S ORCHARD DR,84010,"geo:40.86086,-111.884733",Private
+bountiful school,bountiful,86.7,6.7,Davis District,1620 S 50 W,84010,"geo:40.873608,-111.882705",Private
+meadowbrook school,bountiful,75.6,4.4,Davis District,700 N 325 W,84010,"geo:40.896858,-111.888429",Private
+oak hills school,bountiful,89.1,7.3,Davis District,1235 E 600 S,84010,"geo:40.883124,-111.85514",Private
+h c burton school,kaysville,95.3,4.7,Davis District,827 E 200 S,84037,"geo:41.032473,-111.919302",Private
+centerville school,centerville,86.3,11.8,Davis District,350 N 100 E,84014,"geo:40.920867,-111.876422",Private
+orchard school,north salt lake,89.6,4.5,Davis District,205 E CENTER STREET,84054,"geo:40.842685,-111.906418",Private
+woods cross school,woods cross,85.7,3.2,Davis District,745 W 1100 S,84087,"geo:40.877955,-111.899202",Private
+tolman school,bountiful,94.6,5.4,Davis District,300 E 1200 N,84010,"geo:40.901038,-111.87528",Private
+wasatch school,clearfield,88.5,0.0,Davis District,210 E Center St,84015,"geo:40.87169,-111.86206",Private
+mountain view school,layton,89.5,9.2,Davis District,2025 E 3100 N,84040,"geo:41.104827,-111.928024",Private
+south clearfield school,clearfield,90.6,2.4,Davis District,990 E 700 S,84015,"geo:41.102865,-112.007949",Private
+west bountiful school,west bountiful,89.9,10.1,Davis District,500 N 800 West,84087,"geo:40.894864,-111.900597",Private
+saint olaf catholic school,bountiful,88.9,5.6,,,,,Public
+south weber school,south weber,89.3,9.7,Davis District,1285 E LESTER ST,84405,"geo:41.131615,-111.947463",Private
+stewart school,centerville,75.9,16.7,Davis District,1155 N MAIN ST,84014,"geo:40.931251,-111.879735",Private
+west clinton school,clinton,91.4,1.7,Davis District,2826 W 1800 N,84015,"geo:41.140484,-112.080326",Private
+west point school,west point,88.2,8.8,Davis District,3788 W 300 N,84015,"geo:41.118626,-112.098076",Private
+whitesides school,layton,89.8,8.5,Davis District,233 N COLONIAL AVE,84041,"geo:41.064066,-111.952867",Private
+vae view school,layton,82.8,6.9,Davis District,1750 W 1600 N,84041,"geo:41.083457,-111.998499",Private
+altamont school,altamont,82.6,15.2,Duchesne District,190 W MAIN P O BOX 40,84001,"geo:40.358869,-110.287345",Private
+duchesne school,duchesne,85.4,14.6,Duchesne District,DRAWER 370 198 W 300 N,84021,"geo:40.166233,-110.404531",Private
+east school,roosevelt,82.1,10.7,Duchesne District,700 E 400 N,84066,"geo:40.30533,-109.981271",Private
+myton school,myton,85.2,3.7,Duchesne District,P O BOX 186 400 E MAIN,84052,"geo:40.194357,-110.056167",Private
+neola school,neola,85.7,14.3,Duchesne District,P O BOX 220 8709 N STATE RD 121,84053,"geo:40.428104,-110.033218",Private
+tabiona school,tabiona,64.7,17.6,Duchesne District,P O BOX 470 10 N MAIN,84072,"geo:40.353386,-110.707986",Private
+crestview school,salt lake city,90.6,4.7,Granite District,2100 E LINCOLN LANE,84124,"geo:40.680601,-111.830898",Private
+valley academy,hurricane,63.0,21.0,Valley Academy,539 N 870 W,84737,"geo:37.187385,-113.290479",Public Charter
+david gourley school,kearns,84.4,1.6,Granite District,4905 S 4300 W,84118,"geo:40.662537,-111.992906",Private
+adams school,layton,92.0,6.8,Davis District,2200 E Sunset Drive,84041,"geo:41.095007,-111.925467",Private
+mana academy charter school,west valley city,88.5,3.8,,,,,Public
+mountain view montessori,washington,58.3,39.6,Mountain View Montessori,1160 N. 645 W,84780,"geo:37.1472584,-113.5202387",Public Charter
+blackridge school,herriman,88.6,11.4,Jordan District,14131 South Rosecrest Road,84096,"geo:40.5003502,-112.0387271",Private
+dry creek school,lehi,94.8,0.0,Alpine District,1301 W. 1450 S.,84043,"geo:40.4139705,-111.8687955",Private
+black ridge school,eagle mountain,80.6,19.4,Alpine District,9358 N. Sunset Drive,84005,"geo:40.3820513,-111.9927305",Private
+renaissance academy,kaysville,84.9,14.0,,,,,Public
+odyssey school,woods cross,95.2,3.2,Davis District,2050 S 1955 W,84087,"geo:40.8690391,-111.9398237",Private
+kings peak school,roosevelt,81.1,18.9,Duchesne District,437 N 300 W (4252),84066,"geo:40.305386,-109.998364",Private
+highmark charter school,south weber,83.3,16.7,,,,,Public
+wasatch school,ogden,81.8,9.1,Ogden City District,3370 POLK AVE,84403,"geo:41.201861,-111.943045",Private
+lincoln school,ogden,89.1,3.6,Ogden City District,550 E Canfield,84404,"geo:41.281,-111.96505",Private
+crimson view school,st george,68.7,31.3,Washington District,2835 E. 2000 S.,84790,"geo:37.075015,-113.525625",Private
+neil armstrong academy,west valley city,91.1,6.3,,,,,Public
+leadership learning academy,layton,95.7,4.3,Leadership Learning Academy,100 West 2675 North,84041,"geo:41.099122,-111.968474",Public Charter
+jefferson academy,kaysville,85.9,14.1,Jefferson Academy,1425 S ANGEL ST,84037,"geo:41.011475,-111.958101",Public Charter
+mountain west montessori academy,south jordan,78.8,21.2,Mountain West Montessori Academy,4125 W Foxview Dr.,84009,"geo:40.541111,-111.988819",Public Charter
+tse'bii'nidzisgai school,monument valley,92.6,7.4,San Juan District,10 W MEDICAL DR PO BOX 360448,84536,"geo:37.26071,-109.30444",Private
+ogden preparatory academy,ogden,96.2,2.9,,,,,Public
+pacific heritage academy,salt lake city,87.9,3.0,Pacific Heritage Academy,1755 W 1100 N,84116,"geo:40.792887,-111.940417",Public Charter
+cherry hill school,orem,86.9,3.3,Alpine District,240 E 1650 S,84058,"geo:40.266615,-111.6895",Private
+eagle valley school,eagle mountain,83.5,16.5,Alpine District,4475 N HERITAGE DR,84005,"geo:40.312559,-112.011596",Private
+harvest school,saratoga springs,85.6,10.4,Alpine District,2105 N PROVIDENCE DRIVE,84045,"geo:40.400551,-111.933454",Private
+ascent academies of utah west jordan,west jordan,94.7,4.0,Ascent Academies of Utah,5662 W 8200 S,84081,"geo:40.602369,-112.0289025",Public Charter
+greenville school,north logan,93.3,3.3,Cache District,2450 N 400 E,84341,"geo:41.776954,-111.821963",Private
+ridgecrest school,cottonwood heights,92.9,2.9,Canyons District,1800 E 7200 S,84121,"geo:40.619238,-111.840618",Private
+carmen b pingree autism center of learning,salt lake city,100.0,0.0,,,,,Public
+early light academy at daybreak,south jordan,90.2,9.8,,,,,Public
+excelsior academy,erda,91.9,8.1,,,,,Public
+george washington academy,st george,85.4,14.6,George Washington Academy,2277 S 3000 E,84790,"geo:37.069825,-113.522052",Public Charter
+fox hills school,salt lake city,91.0,3.8,Granite District,3775 W 6020 S,84118,"geo:40.64066,-111.981114",Private
+taylorsville school,salt lake city,84.8,0.0,Granite District,2010 W 4230 S,84119,"geo:40.679449,-111.944464",Private
+daybreak school,south jordan,83.6,6.6,Jordan District,4544 W HARVEST MOON DR,84009,"geo:40.539626,-111.99922",Private
+eastlake school,south jordan,95.8,2.1,Jordan District,4389 W ISLA DAYBREAK ROAD,84009,"geo:40.555113,-111.995642",Private
+mountain shadows school,west jordan,85.0,1.2,Jordan District,5255 W 7000 S,84084,"geo:40.623139,-112.016305",Private
+oakcrest school,west jordan,90.9,5.2,Jordan District,8462 S HILLTOP OAK DR,84088,"geo:40.597638,-112.047064",Private
+welby school,south jordan,89.0,6.8,Jordan District,4130 W 9580 S,84009,"geo:40.578091,-111.989585",Private
+monticello academy highbury capmpus,west valley city,90.1,7.4,,,,,Public
+mt pleasant school,mt pleasant,77.8,20.4,,,,,Public
+parleys park school,park city,94.1,5.9,,,,,Public
+thomas edison south,nibley,88.2,11.8,,,,,Public
+lapoint school,la point,81.0,14.3,,,,,Public
+venture academy,marriott-slaterville city,78.3,21.7,,,,,Public
+bloomington hills school,st george,85.1,12.8,Washington District,919 E BRIGHAM RD,84790,"geo:37.054947,-113.56415",Private
+bloomington school,st george,81.0,19.0,Washington District,425 MAN OF WAR ROAD,84790,"geo:37.051506,-113.592776",Private
+diamond valley school,st george,70.5,29.5,Washington District,1411 W DIAMOND VALLEY DR,84770,"geo:37.249284,-113.614692",Private
+paradise canyon elementary,st george,84.3,7.1,,,,,Public
+little valley school,st george,83.9,16.1,Washington District,2330 E HORSEMAN PARK DR,84790,"geo:37.055597,-113.531378",Private
+panorama school,st george,75.8,16.7,Washington District,301 N 2200 E,84790,"geo:37.113546,-113.537548",Private
+sandstone school,st george,81.2,13.0,Washington District,850 N 2450 E,84790,"geo:37.122327,-113.530713",Private
+country view school,west haven city,95.3,4.7,,,,,Public
+plain city school,plain city,98.9,1.1,Weber District,2335 N 3600 W,84404,"geo:41.302446,-112.085337",Private
+bonneville school,ogden,88.9,2.5,,,,,Public
+heritage school,ogden,94.8,2.6,Ogden City District,373 S 150 W,84404,"geo:41.276199,-111.970691",Private
+odyssey school,ogden,80.3,1.6,Ogden City District,375 GODDARD STREET,84403,"geo:41.204808,-111.958305",Private
+legacy school,st george,87.7,10.4,Washington District,280 E 100 S,84770,"geo:37.1064744,-113.5795634",Private
+heritage school,nibley,90.8,9.2,Cache District,925 W 3200 S,84321,"geo:41.675825,-111.856046",Private
+mcpolin school,park city,86.2,10.3,Park City District,2270 KEARNS BLVD,84098,"geo:40.669543,-111.492915",Private
+belmont school,lehi,83.7,13.0,Alpine District,4051 North Maple Hollow Blvd,84043,"geo:40.441109,-111.818745",Private
+brookhaven school,eagle mountain,90.8,4.9,Alpine District,7082 North Seedling Drive,84005,"geo:40.290507,-112.043852",Private
+liberty hills elementary,lehi,83.0,11.9,Alpine District,3501 West 2450 North,84048,"geo:40.758148,-111.8835328",Private
+bonneville academy,stansbury park,71.0,9.7,Bonneville Academy,800 W Montauk Lane,84074,"geo:40.6376831,-112.3252333",Public Charter
+cedar ridge school,hyde park,92.0,8.0,Cache District,65 N 200 W,84318,"geo:41.80089,-111.825234",Private
+midvale school,midvale,83.2,1.1,Canyons District,7830 Chapel Street,84047,"geo:40.6081112,-111.9019552",Private
+bastian elementary,herriman,91.2,3.9,,,,,Public
+golden fields school,south jordan,82.8,13.1,Jordan District,10252 S. Split Rock Drive,84009,"geo:40.565015,-112.0158947",Private
+mountain point elementary,bluffdale,87.7,10.7,Jordan District,15345 S 1200 W,84065,"geo:40.48633,-111.92481",Private
+ridge view elementary,herriman,84.8,7.9,Jordan District,14120 S Greenford Ln.,84096,"geo:40.492967,-111.993222",Private
+apple valley school,santaquin,90.4,9.6,Nebo District,105 E 770 N,84655,"geo:39.988639,-111.782986",Private
+the center for creativity innovation and discovery,providence,88.0,12.0,The Center for Creativity Innovation and Discovery,PO Box 693,84332,"geo:41.7147965,-111.8225481",Public Charter
+majestic fields school,washington,74.0,25.0,Washington District,675 East Majestic Dr.,84780,"geo:37.08974,-113.49786",Private
+hidden hollow school,eagle mountain,85.6,14.4,Alpine District,7447 North Hidden Valley Parkway,84005,"geo:40.361974,-111.984207",Private
+mountain trails school,eagle mountain,83.5,11.0,Alpine District,3951 NORTH WOOD ROAD,84005,"geo:40.308272,-112.032103",Private
+american preparatory academy draper #2,draper,86.9,9.2,,,,,Public
+ascent academies of utah farmington,farmington,89.7,10.3,Ascent Academies of Utah,22 South 650 West,84025,"geo:41.0604571,-111.9782869",Public Charter
+canyon grove academy,pleasant grove,13.5,13.5,Canyon Grove Academy,588 W 3300 N,84062,"geo:40.399474,-111.750592",Public Charter
+butler school,salt lake city,95.8,4.2,Canyons District,2700 E 7000 S,84121,"geo:40.623271,-111.816011",Private
+esperanza school,west valley city,98.9,1.1,Esperanza School,4956 W 3500 S,84120,"geo:40.6968,-112.00702",Public Charter
+gateway preparatory academy,enoch,56.5,43.5,Gateway Preparatory Academy,201 E THOROUGHBRED WAY,84721,"geo:37.746639,-113.064795",Public Charter
+diamond ridge school,salt lake city,95.5,1.5,Granite District,6034 W MILL VALLEY LANE,84118,"geo:40.635632,-112.034955",Private
+promontory school of expeditionary learning,perry,89.1,10.9,Promontory School of Expeditionary Learning,1051 W 2700 S,84302,"geo:41.461481,-112.040094",Public Charter
+rock canyon school,provo,81.1,17.0,Provo District,435 East 2320 North,84604,"geo:40.2646311,-111.6533449",Private
+sunset view school,provo,88.1,9.0,Provo District,1520 West 600 South,84601,"geo:40.2257919,-111.6878379",Private
+soldier hollow charter school,heber city,69.0,28.6,Soldier Hollow Charter School,3444 West 3000 South,84032,"geo:40.4714003,-111.4663796",Public Charter
+stansbury park school,stansbury park,87.3,12.7,Tooele District,485 COUNTRY CLUB DR,84074,"geo:40.644873,-112.289566",Private
+voyage academy,clinton,90.7,9.3,Voyage Academy,1891 N. 1500 W.,84015,"geo:41.1409892,-112.0548377",Public Charter
+three falls school,hurricane,76.5,17.6,Washington District,789 S 700 W,84737,"geo:37.164223,-113.300252",Private
+water canyon school,hildale,17.2,69.0,Washington District,250 W Newel Avenue,84784,"geo:37.0054425,-112.9668585",Private
+centennial elementary,orem,84.2,12.6,Alpine District,450 S. 400 East,84097,"geo:40.7581398,-111.8835072",Private
+ascent academies of utah west valley,west valley city,91.2,1.5,,,,,Public
+ignite entrepreneurship academy,lehi,75.6,24.4,Ignite Entrepreneurship Academy,1650 West Traverse Terrace,84043,"geo:40.4370387,-111.8784933",Public Charter
+leadership learning academy ogden,ogden,98.6,1.4,,,,,Public
+old mill school,stansbury park,92.1,7.9,Tooele District,130 E Brigham Rd,84074,"geo:40.650893,-112.301576",Private
+treeside charter school,provo,80.0,20.0,Treeside Charter School,34 E 1700 S Suite 132,84606,"geo:40.21126,-111.65789",Public Charter
+daniels canyon school,heber city,83.6,8.2,Wasatch District,688 East Wheeler Rd,84032,"geo:40.478221,-111.402035",Private
+orchard springs,pleasant view,95.1,3.3,Weber District,3300 N 975 W,84414,"geo:41.31797,-112.00037",Private
+silver ridge elementary,farr west,93.8,6.2,Weber District,3340 North 3050 West,84404,"geo:41.32244,-112.053",Private
+advantage arts academy,herriman,77.3,21.2,Advantage Arts Academy,6171 W. 11800 S,84096,"geo:40.53691,-112.03865",Public Charter
+antelope canyon elementary,west jordan,91.3,8.7,Jordan District,8800 South 6400  West,84081,"geo:40.5813,-112.04393",Private
+ascent academies of utah saratoga springs,saratoga springs,87.6,10.7,Ascent Academies of Utah,992 Chianti Street,84043,"geo:40.39183,-111.94227",Public Charter
+aspen elementary,south jordan,86.8,8.3,Jordan District,11189 S WILLOW WALK DR,84009,"geo:39.098999,-111.878816",Private
+bridge elementary school,roy,90.7,2.7,Bridge Elementary School,4824 S Midland Dr,84067,"geo:41.1758,-112.06633",Public Charter
+carden memorial school,salt lake city,100.0,0.0,,,,,Public
+challenger school (k-8) salt lake city,salt lake city,90.9,9.1,,,,,Public
+challenger school (pk-8) lehi,lehi,88.7,11.3,,,,,Public
+challenger school (pk-8) sandy,sand,85.5,5.3,,,,,Public
+challenger school farmington,farmington,90.3,9.7,,,,,Public
+challenger school holladay,holladay,80.0,20.0,,,,,Public
+desert canyons elementary,st.george,86.1,13.9,,,,,Public
+freedom preparatory academy washington,st.george,65.8,34.2,,,,,Public
+glacier hills school,sandy,89.1,5.4,,,,,Public
+golden spike elementary,brigham city,87.4,9.2,Box Elder District,730 East 300 North,84302,"geo:41.51723,-112.00467",Private
+harbor point elementary,saratoga springs,85.1,11.5,Alpine District,4189 S Schooner Drive,84045,"geo:40.28682,-111.87249",Private
+ivy hall academy,provo,45.2,12.9,,,,,Public
+kids village,orem,83.9,8.9,,,,,Public
+monticello academy west point,west point,83.8,16.2,Monticello Academy,3110 W 300 N,84015,"geo:41.11866,-112.08556",Public Charter
+mountain sunrise academy,saratoga springs,58.8,41.2,Mountain Sunrise Academy,1802 East 145 North,84043,"geo:40.36502,-111.86591",Public Charter
+oak leaf elementary,herriman,89.7,8.8,Jordan District,6935 W Silver Sky Drive,84096,"geo:40.51993,-112.03538",Private
+parkside elementary,orem,93.1,1.1,Alpine District,668 W 150 North,84057,"geo:40.30004,-111.71156",Private
+prince of peace lutheran school,taylorsville,94.1,5.9,,,,,Public
+silver lake elementary,eagle mountain,84.5,15.5,Alpine District,5069 Golden Eagle Road,84005,"geo:40.350111,-111.96156",Private
+south mesa elementary,st.george,73.0,24.3,,,,,Public
+sunburst school,layton,90.2,7.3,Davis District,2504 W Sunburst Drive,84041,"geo:41.06016,-112.01109",Private
+trailside elementary,vineyard,86.1,7.9,Alpine District,452 N Vineyard Loop Road,84058,"geo:40.30451,-111.74758",Private
+twenty wells elementary,grantsville,94.0,6.0,Tooele District,636 E Nygreen,84029,"geo:40.5783,-112.43632",Private
+wallace stegner academy west valley,west valley,97.4,2.6,,,,,Public
+american heritage school salt lake city campus,salt lake city,77.8,11.1,,,,,Public
+challenger school west jordan,west jordan,100.0,0.0,,,,,Public
+desert sky elementary,eagle mountain,89.8,8.5,,,,,Public
+john hancock charter school eagle mountain,eagle mountain,78.9,18.7,,,,,Public
+byu child & family studies laboratory,provo,81.1,2.7,,,,,Public
+children's discovery,salt lake,81.0,19.0,,,,,Public
+island view school,west point,91.0,7.2,,,,,Public
+utah peak academy,junction,50.0,45.0,Piute District,PO Box 69,84740,"geo:38.245546,-112.221783",Private
+wallace stegner academy kearns,west valley city,95.9,4.1,,,,,Public
+haven bay,west haven,89.8,8.5,,,,,Public
+american principles academy,cedar,54.2,37.5,,,,,Public
